@@ -26,3 +26,4 @@ Seaborn
 
 Jupyter Notebook 
 <img width="2642" height="1347" alt="Screenshot 2025-07-18 110025" src="https://github.com/user-attachments/assets/5acae61c-0a16-4ef9-86fb-de61cac8d8af" />
+![Screenshot 2025-07-18 111121_Screenshot 2025-07-18 111131_Screenshot 2025-07-18 111142_Screenshot 2025-07-18 111154_Screenshot 2025-07-18 111206_Screenshot 2025-07-18 111216](https://github.com/user-attachments/assets/78a97935-8f59-40c2-a493-b39bc6ce1531)
